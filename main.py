@@ -17,7 +17,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 def load_plugins(plugin_name):
     path = Path(f"JARVIS/modules/{plugin_name}.py")
-    spec = importlib.util.spec_from_file_location(f"JARVIS.modules.{plugin_name}", path)
+    spec = importlib.util.spec_from_file_location(f"MONSTER.modules.{plugin_name}", path)
     load = importlib.util.module_from_spec(spec)
     load.logger = logging.getLogger(plugin_name)
     spec.loader.exec_module(load)
@@ -32,7 +32,7 @@ for name in files:
         plugin_name = patt.stem
         load_plugins(plugin_name.replace(".py", ""))
 
-print("\n𝐉𝐀𝐑𝐕𝐈𝐒 𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 ⚡\nMy Master ---> @JARVIS_V2")
+print("\n🇲𝐎𝐍𝐒𝐓𝐄𝐑 𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 ⚡\nMy Master ---> @MONSTER_TERA_BAAP1")
 
 
 async def main():
