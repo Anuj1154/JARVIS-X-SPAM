@@ -12,7 +12,7 @@ START_BUTTON = [
         Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/monster_king_is_here")
     ],
     [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/doraemon890/JARVIS-X-SPAM")
+        Button.url("• 𝐎𝐖𝐍𝐄𝐑 •", "https://t.me/MONSTER_TERA_BAAP1")
     ]
 ]
 
