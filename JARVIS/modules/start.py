@@ -16,6 +16,7 @@ START_BUTTON = [
     ],
     [ 
         Button.url("• 𝐌𝐎𝐍𝐒𝐓𝐄𝐑 𝐐𝐔𝐄𝐄𝐍 •" "https://t.me/MONSTER_QUEENN")
+    ]
 ]
 
 
