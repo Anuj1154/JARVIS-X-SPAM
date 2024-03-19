@@ -15,7 +15,7 @@ START_BUTTON = [
         Button.url("• 𝐎𝐖𝐍𝐄𝐑 •", "https://t.me/MONSTER_TERA_BAAP1")
     ],
     [ 
-        Button.url("• 𝐌𝐎𝐍𝐒𝐓𝐄𝐑 𝐐𝐔𝐄𝐄𝐍 •" "https://t.me/MONSTER_QUEENN")
+        Button.url("• 𝐌𝐎𝐍𝐒𝐓𝐄𝐑 𝐐𝐔𝐄𝐄𝐍 •", "https://t.me/MONSTER_QUEENN")
     ]
 ]
 
