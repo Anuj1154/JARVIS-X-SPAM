@@ -60,7 +60,7 @@ extra_msg = f"""
   2) {hl}leave : Type in the Group bot will auto leave that group
 
 
-**© @JARVIS_V2**
+**© @MONSTER_TERA_BAAP1**
 """
 
                  
@@ -92,7 +92,7 @@ raid_msg = f"""
   2) {hl}craid <count> <reply to user>
 
 
-**© @JARVIS_V2**
+**© @MONSTER_TERA_BAAP1**
 """
 
 spam_msg = f"""
@@ -109,7 +109,7 @@ spam_msg = f"""
   1) {hl}hang <counter>
 
 
-** © @JARVIS_V2**
+** © @MONSTER_TERA_BAAP1**
 """                     
            
            
