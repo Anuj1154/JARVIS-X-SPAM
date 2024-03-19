@@ -5,11 +5,11 @@ from config import X1, X2, X3, X4, X5, X6, X7, X8, X9, X10
 
 START_BUTTON = [
     [
-        Button.inline("• ᴄᴏᴍᴍᴀɴᴅs •", data="help_back")
+        Button.inline("• 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 •", data="help_back")
     ],
     [
-        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/monster_discussion"),
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/monster_king_is_here")
+        Button.url("• 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 •", "https://t.me/monster_discussion"),
+        Button.url("• 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 •", "https://t.me/monster_king_is_here")
     ],
     [
         Button.url("• 𝐎𝐖𝐍𝐄𝐑 •", "https://t.me/MONSTER_TERA_BAAP1")
