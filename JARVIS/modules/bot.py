@@ -21,7 +21,7 @@ from datetime import datetime
 async def ping(e):
     if e.sender_id in SUDO_USERS:
         start = datetime.now()
-        jarvis = await e.reply(f"ᴥ︎︎︎ 𝐉𝐀𝐑𝐕𝐈𝐒 ✔︎")
+        jarvis = await e.reply(f"ᴥ︎︎︎ 𝐌𝐎𝐍𝐒𝐓𝐄𝐑 ✔︎")
         end = datetime.now()
         mp = (end - start).microseconds / 1000
         await jarvis.edit(f"[𝐌𝐎𝐍𝐒𝐓𝐄𝐑 𝐈𝐒 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎  ](https://t.me/monster_king_is_here)[𝐅𝐔𝐂𝐊 𝐇𝐀𝐓𝐄𝐑𝐒 🥀](https://t.me/monster_discussion)🤖\n» `{mp} ᴍꜱ`")
@@ -123,7 +123,7 @@ async def addsudo(event):
                 newsudo = f"{sudousers} {target}"
             else:
                 newsudo = f"{target}"
-            await ok.edit(f"» **ɴᴇᴡ ꜱᴜᴅᴏ ᴜꜱᴇʀ**: `{target}`\n» `ADD KAR DIYE HAI SUDO..BOT RESTART HO RHA HAI`")
+            await ok.edit(f"» **ɴᴇᴡ SUDO ᴜꜱᴇʀ**: `{target}`\n» `ADD KAR DIYE HAI SUDO..BOT RESTART HO RHA HAI`")
             heroku_var["SUDO_USERS"] = newsudo    
     
     elif event.sender_id in SUDO_USERS:
