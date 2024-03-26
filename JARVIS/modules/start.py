@@ -12,10 +12,10 @@ START_BUTTON = [
         Button.url("• 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 •", "https://t.me/monster_king_is_here")
     ],
     [
-        Button.url("• 𝐎𝐖𝐍𝐄𝐑 •", "https://t.me/Homosapienhu")
+        Button.url("• 𝐎𝐖𝐍𝐄𝐑 •", "https://t.me/MONSTER_TERA_BAAP1")
     ],
     [ 
-        Button.url("• 𝐌𝐎𝐍𝐒𝐓𝐄𝐑 •", "https://t.me/MONSTER_TERA_BAAP1")
+        Button.url("• 𝐌𝐎𝐍𝐒𝐓𝐄𝐑 𝐐𝐔𝐄𝐄𝐍 •", "https://t.me/MONSTER_QUEENN")
     ]
 ]
 
